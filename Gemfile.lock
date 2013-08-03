@@ -120,6 +120,9 @@ GEM
       nokogiri (>= 1.2.0)
       rack (>= 1.0)
       rack-test (>= 0.5.3)
+    zurb-foundation (2.2.1.2)
+      jquery-rails (>= 1.0)
+      railties (>= 3.1.0, < 4.0)
 
 PLATFORMS
   ruby
@@ -134,3 +137,4 @@ DEPENDENCIES
   sqlite3
   uglifier (>= 1.0.3)
   webrat
+  zurb-foundation (~> 2.2)

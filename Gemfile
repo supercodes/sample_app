@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.12'
 
 gem 'sqlite3'
+gem 'zurb-foundation', '~> 2.2'
 
 group :development do
 	gem "rspec-rails"
