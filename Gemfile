@@ -5,11 +5,11 @@ gem 'rails', '3.2.12'
 gem 'sqlite3'
 
 group :development do
-	gem "rspec-rails", "~> 2.14.0"
+	gem "rspec-rails"
 end
 
 group :test do
-	gem "rspec", "~> 2.14.1"
+	gem "rspec"
 end
 
 
